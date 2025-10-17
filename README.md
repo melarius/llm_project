@@ -17,7 +17,7 @@
 5. Замените XXXXX на соответствующие ключи от API GigaChat и OpenRouter.
 6. Запустите приложение через терминал командой `streamlit run app.py`
 
-##Скриншоты
+## Скриншоты
 
 <img width="1326" height="977" alt="image" src="https://github.com/user-attachments/assets/e5c7d8f3-bc58-4067-b2ef-2afad59fb97a" />
 
