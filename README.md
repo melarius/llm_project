@@ -20,3 +20,6 @@
 ##Скриншоты
 
 <img width="1326" height="977" alt="image" src="https://github.com/user-attachments/assets/e5c7d8f3-bc58-4067-b2ef-2afad59fb97a" />
+
+<img width="1310" height="987" alt="image" src="https://github.com/user-attachments/assets/f4480d61-d58c-4850-b902-6c38224bd4ab" />
+
