@@ -1,5 +1,7 @@
 # llm_project
-Простой сайт на Streamlit для получения ответов от трех нейросетей.
+Простой сайт на Streamlit для получения ответов от трех нейросетей. 
+
+Используются базы gigachat - прямое API, gpt-oss-20b:free и deepseek-chat-v3.1:free - через OpenRouter.
 
 ## Требования
 - Python >=3.12
@@ -16,3 +18,5 @@
 6. Запустите приложение через терминал командой `streamlit run app.py`
 
 ##Скриншоты
+
+<img width="1326" height="977" alt="image" src="https://github.com/user-attachments/assets/e5c7d8f3-bc58-4067-b2ef-2afad59fb97a" />
